@@ -1,4 +1,4 @@
-package com.example.hw15
+package com.example.lab15kotlin
 
 import android.util.Log
 import com.google.firebase.messaging.FirebaseMessagingService

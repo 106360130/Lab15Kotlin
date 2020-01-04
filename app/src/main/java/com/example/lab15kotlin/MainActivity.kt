@@ -1,4 +1,4 @@
-package com.example.hw15
+package com.example.lab15kotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
